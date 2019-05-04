@@ -10,3 +10,8 @@ An open-world head-to-head tank fight with simple AI, terrain, and advanced cont
 * BT06 A LAndscaping Process
 * BT07 Upgrading engine version
 * BT08 Using Landscape Layers
+* BT09 Flat Shading Low Poly Landscapes
+* BT10 More Landscaping Tools
+
+
+
